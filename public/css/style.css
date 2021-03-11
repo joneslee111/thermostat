@@ -1,0 +1,100 @@
+
+* {
+    text-align: center;
+    font-family: helvetica;
+    box-sizing: border-box;
+    border: 0px;
+    margin: 0px;
+    
+    
+  }
+  
+* body {
+  background-image: url('../images/northernlights.jpg');
+}
+
+#temperature-up, #temperature-down, #temperature-reset, #powersaving-on, #powersaving-off {
+  border: 2px solid #f2f3f4;
+  background-color: rgba(0,0,0, 0.3);
+  color: whitesmoke;
+  cursor: pointer;
+  font-size: 13px;
+  width:70px; 
+  height:30px;
+  border-radius: 5px;
+}
+
+p {
+  padding: 20px;
+  
+}
+  
+.bg-text {
+  font-family: helvetica;
+  background-color: rgba(0,0,0, 0.4);
+  color: whitesmoke;
+  border: 3px solid #f2f3f4;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 60%;
+  text-align: center;
+  padding: 30px;
+  border-radius: 10px;
+  font-size: 30px;
+}
+
+#temperature {
+  font-size: 20vw;
+  text-align: center;
+  border: 0px;
+  margin: 0px;
+}
+
+.low-usage {
+  color: #e6e6fa;
+  -webkit-text-stroke-width: 6px;
+  -webkit-text-stroke-color: #0892d0;
+  background-color: rgb(8, 146, 208, 0.6);
+}
+  
+.medium-usage {
+  color: #e6e6fa;
+  
+}
+
+.high-usage {
+  color: #e6e6fa;
+  -webkit-text-stroke-width: 6px;
+  -webkit-text-stroke-color: #cc5500;
+  background-color:	rgb(204, 85, 0, 0.6);
+  
+}
+  
+h1 {
+  color: whitesmoke;
+  font-size: 80px;
+  margin-right: 100px;
+  margin-top: 50px;
+}
+
+h3 {
+  color: whitesmoke;
+  font-size: 20px;
+  position: fixed;
+  bottom: 20px;
+  margin-left: 50px;
+}
+
+.footer {
+  background-color: rgba(0,0,0, 0.4);
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  font-size: 20px;
+  color: white;
+  text-align: center;
+}
+}

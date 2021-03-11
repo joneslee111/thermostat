@@ -27,7 +27,7 @@ class Thermostat{
         this.temperature -= 1
     }
     isMinimumTemperature() {
-        return this.tempeature === this.MINIMUM_TEMPERATURE;
+        return this.temperature === this.MINIMUM_TEMPERATURE;
     }
     isPowerSavingModeOn() {
         return this.powerSavingMode === true;
@@ -49,7 +49,7 @@ class Thermostat{
     }
     energyUsage() {
         if (this.temperature < this.MEDIUM_ENERGY_USAGE_LIMIT) {
-            return 'low-usage';
+            return 'low-usage'
         }
         if (this.temperature <= this.HIGH_ENERGY_USAGE_LIMIT) {
             return 'medium-usage';
