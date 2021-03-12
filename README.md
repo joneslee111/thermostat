@@ -96,13 +96,14 @@ I would like to visually see when I am in low/medium/high usage mode.
 <h2 align="center">Screenshots</h2>
 
 <h3 align="center"> Default</h3>
-<img width="1775" alt="Screenshot 2021-03-12 at 14 47 52" src="https://user-images.githubusercontent.com/21693444/110955968-0df25e80-8342-11eb-8720-cd484ff340eb.png">
+
+<img width="1775" alt="Screenshot 2021-03-12 at 23 21 10" src="https://user-images.githubusercontent.com/21693444/111008728-a52ed480-8389-11eb-90be-e35843628ed1.png">
 
 <h3 align="center">Power Saving Mode Off && High Temp</h3>
-<img width="1775" alt="Screenshot 2021-03-12 at 14 50 55" src="https://user-images.githubusercontent.com/21693444/110956318-69245100-8342-11eb-8882-d532bb3a22b1.png">
+<img width="1775" alt="Screenshot 2021-03-12 at 23 22 22" src="https://user-images.githubusercontent.com/21693444/111008805-d0192880-8389-11eb-985e-d94d85e818da.png">
 
 <h3 align="center"> Low Temp</h3>
-<img width="1775" alt="Screenshot 2021-03-12 at 14 51 08" src="https://user-images.githubusercontent.com/21693444/110956374-7a6d5d80-8342-11eb-9339-39a2e97fd1d9.png">
+<img width="1775" alt="Screenshot 2021-03-12 at 23 23 01" src="https://user-images.githubusercontent.com/21693444/111008838-e58e5280-8389-11eb-9d62-754c75af21d4.png">
 	
 <h2 align="center">Setup</h2>
 To run this project, clone it locally using:
