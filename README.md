@@ -22,16 +22,16 @@ Project is created with:
 
 ## Specifications
 
-• Thermostat starts at 20 degrees
-• You can increase the temperature with an up function
-• You can decrease the temperature with a down function
-• The minimum temperature is 10 degrees
-• If power saving mode is on, the maximum temperature is 25 degrees
-• If power saving mode is off, the maximum temperature is 32 degrees
-• Power saving mode is on by default but it can also be turned off
-• You can reset the temperature to 20 with a reset function
-• You can ask about the thermostat's current energy usage: < 18 is low-usage, <= 25 is medium-usage, anything else is high-usage.
-• Low-usage will be indicated with blue, medium-usage indicated with white, high-usage indicated with dark orange.
+* Thermostat starts at 20 degrees
+* You can increase the temperature with an up function
+* You can decrease the temperature with a down function
+* The minimum temperature is 10 degrees
+* If power saving mode is on, the maximum temperature is 25 degrees
+* If power saving mode is off, the maximum temperature is 32 degrees
+* Power saving mode is on by default but it can also be turned off
+* You can reset the temperature to 20 with a reset function
+* You can ask about the thermostat's current energy usage: < 18 is low-usage, <= 25 is medium-usage, anything else is high-usage.
+* Low-usage will be indicated with blue, medium-usage indicated with white, high-usage indicated with dark orange.
 
 ## User Stories
 ```
@@ -48,6 +48,36 @@ I want to be able to increase the temperature.
 As a user,
 So that I can be cooler,
 I want to be able to dcrease the temperature.
+```
+```
+As a user,
+So that I don't get to cold,
+I want the minimum temperature to be 10°.
+```
+```
+As a user,
+So that I can save money,
+I would like there to be a power saving mode.
+```
+```
+As a user,
+So that I can save money,
+I would there to be a limit of 25° when PSM is switched on.
+```
+```
+As a user,
+So that I don't sizzle,
+I would like there to be a limit of 32° when PSM is switched off.
+```
+```
+As a user,
+As I am lazy,
+I would like there to be a reset button to the default temperature.
+```
+```
+As a user,
+So I can see my energy usage,
+I would like to visually see when I am in low/medium/high usage mode.
 ```
 
 ## Planning
