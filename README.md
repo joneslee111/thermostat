@@ -1,26 +1,36 @@
-# Thermostat
+<h1 align="center">Thermostat</h1>
 
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Specifications](#specifications)
-* [User Stories](#user-stories)
-* [Planning](#planning)
-* [Screenshots](#screenshots)
-* [Setup](#setup)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/21693444/111007677-554f0e00-8387-11eb-85b9-e993d6fe12b1.gif" width="700" height="350">
+</p>
+
+<h2 align="center">Table of contents</h2>
+
+<p align="center">
+<a href="#general-info">• General Info</a><br>
+<a href="#technologies">• Technologies</a><br>
+<a href="#specifications">• Specifications</a><br>
+<a href="#user-stories">• User Stories</a><br>
+<a href="#planning">• Planning</a><br>
+<a href="#screenshots">• Screenshots</a><br>
+<a href="#setup">• Setup</a><br>
+</p>
+
  
 
-## General info
+<h2 align="center">General info</h2>
 A challenge to build the business logic to model a simple thermostat, and learn to hook it up to a dynamic visual interface using jQuery. Additionally, to use JavaScript to fetch data sources and display those on the page. Jamine is used to help test-drive the project.
 
-## Technologies
+<h2 align="center">Technologies</h2>
+
 Project is created with:
-* JavaScript 
-* jQuery 
+* JavaScript
+* jQuery
 * HTML
 * CSS
 
-## Specifications
+
+<h2 align="center">Specifications</h2>
 
 * Thermostat starts at 20 degrees
 * You can increase the temperature with an up function
@@ -33,7 +43,8 @@ Project is created with:
 * You can ask about the thermostat's current energy usage: < 18 is low-usage, <= 25 is medium-usage, anything else is high-usage.
 * Low-usage will be indicated with blue, medium-usage indicated with white, high-usage indicated with dark orange.
 
-## User Stories
+<h2 align="center">User Stories</h2>
+
 ```
 As a user,
 So that my life can be made easier,
@@ -80,21 +91,21 @@ So I can see my energy usage,
 I would like to visually see when I am in low/medium/high usage mode.
 ```
 
-## Planning
+<h2 align="center">Planning</h2>
 
-## Screenshots
+<h2 align="center">Screenshots</h2>
 
-#### Default
+<h3 align="center"> Default</h3>
 <img width="1775" alt="Screenshot 2021-03-12 at 14 47 52" src="https://user-images.githubusercontent.com/21693444/110955968-0df25e80-8342-11eb-8720-cd484ff340eb.png">
 
-#### Power Saving Mode Off && High Temp
+<h3 align="center">Power Saving Mode Off && High Temp</h3>
 <img width="1775" alt="Screenshot 2021-03-12 at 14 50 55" src="https://user-images.githubusercontent.com/21693444/110956318-69245100-8342-11eb-8882-d532bb3a22b1.png">
 
-#### Low Temp
+<h3 align="center"> Low Temp</h3>
 <img width="1775" alt="Screenshot 2021-03-12 at 14 51 08" src="https://user-images.githubusercontent.com/21693444/110956374-7a6d5d80-8342-11eb-9339-39a2e97fd1d9.png">
 	
-## Setup
-To run this project, fork it and then clone it locally using:
+<h2 align="center">Setup</h2>
+To run this project, clone it locally using:
 
 ```
 % cd ../localdir
