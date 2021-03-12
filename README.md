@@ -3,10 +3,9 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Specifications](#specifications)
-* [User Stories](#user-stories)
-* [Planning](#planning)
-* [Screenshots](#screenshots)
+* [Specifications] (#spec)
+* [User Stories] (#user-stories)
+* [Planning] (#planning)
 * [Setup](#setup)
  
 
@@ -25,14 +24,12 @@ Project is created with:
 ## User Stories
 
 ## Planning
-
-## Screenshots
 	
 ## Setup
-To run this project, install it locally using npm:
+To run this project, fork it and then clone it locally using:
 
 ```
-$ cd ../lorem
-$ npm install
-$ npm start
+% cd ../localdir
+% git clone https://github.com/joneslee111/thermostat.git
+% open index.html
 ```
