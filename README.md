@@ -3,9 +3,9 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Specifications] (#specifications)
-* [User Stories] (#user-stories)
-* [Planning] (#planning)
+* [Specifications](#specifications)
+* [User Stories](#user-stories)
+* [Planning](#planning)
 * [Setup](#setup)
  
 
