@@ -5,7 +5,7 @@
 * [Technologies](#technologies)
 * [Specifications](#specifications)
 * [User Stories](#user-stories)
-* [Planning] (#planning)
+* [Planning](#planning)
 * [Screenshots](#screenshots)
 * [Setup](#setup)
  
