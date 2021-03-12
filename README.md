@@ -6,6 +6,7 @@
 * [Specifications](#specifications)
 * [User Stories](#user-stories)
 * [Planning](#planning)
+* [Screenshots](#screenshots)
 * [Setup](#setup)
  
 
@@ -24,6 +25,8 @@ Project is created with:
 ## User Stories
 
 ## Planning
+
+## Screenshots
 	
 ## Setup
 To run this project, install it locally using npm:
