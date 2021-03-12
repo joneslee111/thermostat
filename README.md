@@ -22,7 +22,33 @@ Project is created with:
 
 ## Specifications
 
+• Thermostat starts at 20 degrees
+• You can increase the temperature with an up function
+• You can decrease the temperature with a down function
+• The minimum temperature is 10 degrees
+• If power saving mode is on, the maximum temperature is 25 degrees
+• If power saving mode is off, the maximum temperature is 32 degrees
+• Power saving mode is on by default but it can also be turned off
+• You can reset the temperature to 20 with a reset function
+• You can ask about the thermostat's current energy usage: < 18 is low-usage, <= 25 is medium-usage, anything else is high-usage.
+• Low-usage will be indicated with blue, medium-usage indicated with white, high-usage indicated with dark orange.
+
 ## User Stories
+```
+As a user,
+So that my life can be made easier,
+I want the thermostat to default start at 20°.
+```
+```
+As a user, 
+So that I can be warmer,
+I want to be able to increase the temperature.
+```
+```
+As a user,
+So that I can be cooler,
+I want to be able to dcrease the temperature.
+```
 
 ## Planning
 
