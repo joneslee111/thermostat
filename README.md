@@ -3,9 +3,10 @@
 ## Table of contents
 * [General info](#general-info)
 * [Technologies](#technologies)
-* [Specifications] (#spec)
-* [User Stories] (#user-stories)
+* [Specifications](#specifications)
+* [User Stories](#user-stories)
 * [Planning] (#planning)
+* [Screenshots](#screenshots)
 * [Setup](#setup)
  
 
@@ -24,6 +25,8 @@ Project is created with:
 ## User Stories
 
 ## Planning
+
+## Screenshots
 	
 ## Setup
 To run this project, fork it and then clone it locally using:
